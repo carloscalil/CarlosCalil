@@ -1,8 +1,8 @@
 h2{
-   color: rgb(100, 100, 241); 
+   color: rgb(0,0,0); 
 }
 body{
-   background-color: rgb(107, 175, 230);
+   background-color: rgb(216, 225, 231);
    font-family: "Crimson Text","Times New Roman", serif;
    font-size: 120%;
    
@@ -12,9 +12,15 @@ h1,h2{
 }
 h1{
    text-align: center;
-   background-color: blue;
-   color: red;
+   background-color: rgb(0, 0, 0);
+   color: white;
 }
 p,h2{
    text-align: center;
+}
+aside {
+   color: white; 
+   text-align: center;
+   background-color: black;
+
 }
